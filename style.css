@@ -64,3 +64,8 @@ footer {
     padding-top: 1%;
     padding-bottom: 7%;
 }
+.image-container img{
+    width: 19.5%;
+    height: 200px;
+    
+}
